@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pushkar Dangi</h1>
 <h3 align="center">a curious mind</h3>
 
+<p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pushkardangi&show_icons=true&theme=dark#gh-dark-mode-only" >
+</p>
+
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" />
+</p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </p>
 
+<div align="center">
+  
 <h3> Socials </h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkardangi/)
@@ -54,4 +61,4 @@
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
+</div>
