@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pushkar Dangi</h1>
 <h3 align="center">a curious mind</h3>
 
+
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pushkardangi&show_icons=true&theme=dark#gh-dark-mode-only" >
+<img src="https://github-readme-stats.vercel.app/api?username=pushkardangi&show_icons=true&theme=dark#gh-dark-mode-only" >
 </p>
 
 <p align="center">
@@ -10,7 +11,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </p>
 
 <div align="center">
