@@ -7,12 +7,13 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkardangi&layout=compact" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkardangi&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" />
 </p>
+
 
 <div align="center">
   
