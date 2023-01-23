@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushkar Dangi</h1>
 <h3 align="center">a curious mind</h3>
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pushkardangi&show_icons=true&theme=light#gh-dark-mode-only" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkardangi&layout=compact" width="48%"/>
-</p>
-
 <p align="center">
 
 </p>
