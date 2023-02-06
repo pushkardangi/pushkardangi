@@ -2,12 +2,17 @@
 <h3 align="center">a curious mind</h3>
 
 <p align="center">
-
+<img src="https://github-readme-stats.vercel.app/api?username=pushkardangi&show_icons=true&theme=light#gh-dark-mode-only" width="50%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" width="50%"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" width="50%" />
+<p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkardangi&layout=compact" />
+<p>
+
 
 
 <div align="center">
