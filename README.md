@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pushkar Dangi</h1>
-<h3 align="center">a curious mind</h3>
-
-![](https://pbs.twimg.com/profile_banners/1423646543286919171/1670425671/1080x360)
-
+<p align="center">
+<img align="center" src="https://pbs.twimg.com/profile_banners/1423646543286919171/1676212141/1080x360"  width="100%"/>
+</p>
+  
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkardangi&layout=compact" width="49%"/>
