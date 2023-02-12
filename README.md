@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pushkar Dangi</h1>
 <h3 align="center">a curious mind</h3>
 
+![](https://pbs.twimg.com/profile_banners/1423646543286919171/1670425671/1080x360)
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" width="50%" />
 <p>
