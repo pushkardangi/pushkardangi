@@ -3,8 +3,8 @@
 </p>
   
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkardangi&layout=compact" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" width="54%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkardangi&layout=compact" width="45.5%"/>
 <p>  
 
 <div align="center">
