@@ -54,4 +54,6 @@
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
   
+  
+  Would you like to join me on a project, ping me on pushkardangi746@gmail.com 
 </div>
