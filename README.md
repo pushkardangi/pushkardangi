@@ -1,4 +1,10 @@
+
 <p align="center">
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Web+Developer;Loves+Error;Hate+Lies" alt="typing svg"/>
+</p>
+
+
+<p>
 <img align="center" src="https://pbs.twimg.com/profile_banners/1423646543286919171/1676216736/1080x360"  width="99%"/>
 </p>
   
