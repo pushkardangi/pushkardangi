@@ -7,10 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=Frontend+web+developer;Loves+error;Hate+lies)](https://git.io/typing-svg)
 
 </h2>
-
-<p>
-<img align="center" src="https://pbs.twimg.com/profile_banners/1423646543286919171/1676216736/1080x360"  width="99%"/>
-</p>
   
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" width="54%" />
