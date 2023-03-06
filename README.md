@@ -1,8 +1,12 @@
+<h3 align="center">
+ Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px" />
+</h3>
 
-<p align="center">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Web+Developer;Loves+Error;Hate+Lies" alt="typing svg"/>
-</p>
+ <h2 align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=Frontend+web+developer;Loves+error;Hate+lies)](https://git.io/typing-svg)
+
+</h2>
 
 <p>
 <img align="center" src="https://pbs.twimg.com/profile_banners/1423646543286919171/1676216736/1080x360"  width="99%"/>
