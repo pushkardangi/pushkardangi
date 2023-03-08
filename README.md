@@ -8,22 +8,24 @@
  
 </h2>
 
-<h4>
+<div>
  
  <p> Hi there! My name is Pushkar Dangi and I'm a Bachelor's student who loves working with React. I have experience with HTML, CSS, and JavaScript, and loves exprimenting with new things. </p>
  
-<p> Oh, and before I forget - I have a little joke for you. Why do programmers prefer dark mode? Because light attracts bugs! </p>
+ <br>
  
-<p> In all seriousness though, I'm passionate about building meaningful projects with React and I'm eager to collaborate with others who share that passion. If you're interested in working on a project together, feel free to reach out to me at pushkardangi746@gmail.com. So don't hesitate to drop me a line if you have a project in mind. I can't wait to hear from you. </p>
-</h4>
-
-<br>
-  
-<p align="center">
+ <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkardangi&" width="54%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkardangi&layout=compact" width="45.5%"/>
 <p>
  
+ <br>
+ 
+<p> Oh, and before I forget - I have a little joke for you. Why do programmers prefer dark mode? Because light attracts bugs! </p>
+ 
+<p> In all seriousness though, I'm passionate about building meaningful projects with React and I'm eager to collaborate with others who share that passion. If you're interested in working on a project together, feel free to reach out to me at pushkardangi746@gmail.com. So don't hesitate to drop me a line if you have a project in mind. I can't wait to hear from you. </p>
+</div>
+
 <br>
  
 <div align="center">
@@ -48,7 +50,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
 </td></tr>
 <tr><td>
