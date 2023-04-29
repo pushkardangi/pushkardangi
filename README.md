@@ -23,7 +23,7 @@
  
 <p> Oh, and before I forget - I have a little joke for you. Why do programmers prefer dark mode? Because light attracts bugs! </p>
  
-<p> In all seriousness though, I'm passionate about building meaningful projects with React and I'm eager to collaborate with others who share that passion. If you're interested in working on a project together, feel free to reach out to me at pushkardangi746@gmail.com. So don't hesitate to drop me a line if you have a project in mind. I can't wait to hear from you. </p>
+<p> In all seriousness though, I'm passionate about building meaningful projects with React and I'm eager to collaborate with others who share that passion. If you're interested in working on a project together, feel free to reach out to me at pushkardangi746@gmail.com. So don't hesitate to drop me a line if you have a project in mind or just want to have a chit-chat about web technologies. I can't wait to hear from you. </p>
 </div>
 
 <br>
