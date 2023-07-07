@@ -4,7 +4,7 @@
 
  <h2 align="center">
  
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=I+am+a+Web+developer;loves+Errors;and+Adventures)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=I+am+a+Web+developer;loves+Errors;and+Exploration)
  
 </h2>
 
