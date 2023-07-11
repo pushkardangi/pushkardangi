@@ -11,7 +11,7 @@
  <br>
  
  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pushkardangi&hide_border=true&custom_title=Pushkar's%20GitHub%20Stats&hide=issues&show_icons=true&theme=dark#gh-dark-mode-only" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pushkardangi&hide_border=true&custom_title=Pushkar's%20GitHub%20Stats&hide_rank=true&hide=issues&show_icons=true&theme=dark#gh-dark-mode-only" width="36%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkardangi&hide_border=true&layout=compact&theme=dark#gh-dark-mode-only" width="43%"/>
 <p>
  
