@@ -18,12 +18,13 @@
  <br>
 
 <div>
- 
- <p> Hi there! My name is Pushkar Dangi and I'm a Bachelor's student who loves working with React. I have experience with HTML, CSS, and JavaScript, and loves exprimenting with new things. </p>
- 
-<p> Oh, and before I forget - I have a little joke for you. Why do programmers prefer dark mode? Because light attracts bugs! </p>
- 
-<p> In all seriousness though, I'm passionate about building meaningful projects with React and I'm eager to collaborate with others who share that passion. If you're interested in working on a project together, feel free to reach out to me at pushkardangi746@gmail.com. So don't hesitate to drop me a line if you have a project in mind or just want to have a chit-chat about web technologies. I can't wait to hear from you.</p>
+
+<p> Hi there! 👋 I'm Pushkar Dangi, a passionate React developer and BCA Graduate who thrives on exploring new technologies.
+With a solid foundation in JavaScript and React, I'm always up for building meaningful projects and experimenting with innovative ideas in web development.</p>
+
+<p>Why did the programmer go broke? Because they used up all their cache! (Yes, I’m a fan of coding humor!)</p>
+
+<p>In all seriousness though, I'm passionate about building meaningful projects with React and I'm eager to collaborate with others who share that passion. If you're interested in working on a project together, feel free to reach out to me at pushkardangi746@gmail.com. Don't hesitate to drop me a line if you have a project in mind or just want to have a chit-chat about web technologies. I can't wait to hear from you.</p>
 </div>
 
 <br>
