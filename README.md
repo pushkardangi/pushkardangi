@@ -19,7 +19,7 @@
 
 <div>
 
-<p> Hi there! 👋 I'm Pushkar Dangi, a passionate React developer and BCA Graduate who thrives on exploring new technologies.
+<p>I'm Pushkar Dangi, a passionate React developer and BCA Graduate who thrives on exploring new technologies.
 With a solid foundation in JavaScript and React, I'm always up for building meaningful projects and experimenting with innovative ideas in web development.</p>
 
 <p>Why did the programmer go broke? Because they used up all their cache! (Yes, I’m a fan of coding humor!)</p>
